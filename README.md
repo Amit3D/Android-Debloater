@@ -9,4 +9,4 @@
 4.)run in python 
 
 
-Official SAMSUNG USB drivers added 
+Official SAMSUNG USB drivers added.
